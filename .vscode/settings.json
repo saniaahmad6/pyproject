@@ -1,0 +1,6 @@
+{
+    "python.disableInstallationCheck": true,
+    "python.autoComplete.extraPaths": [
+    
+    ]
+}
