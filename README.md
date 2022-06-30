@@ -1,1 +1,1 @@
-<img src="./menupage.png" alt="Menu Page" title="MENU PAGE" width="200px" height="200px">
+<img src="./menupage.png" alt="Menu Page" title="MENU PAGE" width="500px" height="500px">
